@@ -4,21 +4,9 @@
 <img src="./logo.svg" style="display: block; margin-left: auto; margin-right: auto; widht: 6em; height: 100px">
 <img src="./logo_text.svg" style="display: block; margin-left: auto; margin-right: auto; margin-top: 10px; widht: 6em; height: 25px">
 
-<h1><code>::selection</code></h1>
-
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ea libero recusandae error esse at eaque, cumque maxime
-    in officia architecto labore temporibus. Fugiat deserunt dignissimos ullam harum aut quod.</p>
-
-<blockquote>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae impedit nisi ullam animi accusantium.</p>
-</blockquote>
-
-
-
-
 <h2> Описание игры</h2>
 
-<span style="text-align: justify;">
+<span>
 Каждая команда имеет свой сервер, на сервере располагаются сервисы. 
 Сервис — это работающее по сети приложение, которое запущено на хосте и которым могут пользоваться люди. Сервисы спроектированы так, что в них пользователь может оставлять какую-то приватную информацию, будь то его пароль, приватные заметки, видео <b>"только для друзей"</b> или данные платежной карты. 
 <br>
