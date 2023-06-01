@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Правила и требования соревнований по информационной безопасности<br><nobr>Capture The Flag</nobr></h1>
+<h1 style="text-align: center">Правила и требования соревнований по информационной безопасности<nobr>Capture The Flag</nobr></h1>
 <img src="./logo.svg" style="display: block; margin-left: auto; margin-right: auto; widht: 6em; height: 100px">
 <img src="./logo_text.svg" style="display: block; margin-left: auto; margin-right: auto; margin-top: 10px; widht: 6em; height: 25px">
 
